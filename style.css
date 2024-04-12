@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@0;1&display=swap');
+body{
+    background-color: rgb(19, 19, 19);
+    color: white;
+    text-align: center;
+    font-weight: 700;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.iniciar:hover{
+    color: rgb(215, 215, 215);
+    font-size: 4.2rem;
+}
+
+
+.titulostart{
+    font-family: "Aboreto", system-ui;
+}
+
+.titulo{
+    font-size: 2.5rem;
+    padding-top: 4rem;
+}
+
+.botaoiniciar{
+    font-size: 4rem;
+    padding-top: 16rem;
+}
+
+.footerstart{
+    font-size: 2rem;
+    margin-top: 18rem;
+}
+
+main{
+    min-height: 60vh;
+    font-family: "Amatic SC", sans-serif;
+}
+
+.titulocima{
+    font-size: 50px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.textocima{
+    font-size: 30px;
+    color: rgb(201, 201, 201);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.textobaixo{
+    font-size: 30px;
+    color: rgb(201, 201, 201);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.opcao{
+    font-size: 25px;  
+    font-family: "Aboreto", system-ui; 
+}
+
+.opcao:hover{
+    font-size: 26px;
+    color: rgb(161, 161, 161);
+}
